@@ -25,7 +25,7 @@ Feature engineering involves creating new features or modifying existing ones to
 - Creating new features (if applicable)
 - Normalizing or scaling numerical features
 5. **Model Training**
-The linear regression model is trained using the processed dataset. Steps include:
+The Decision Tree model is trained using the processed dataset. Steps include:
 - Splitting the dataset into training and testing sets
 - Training the model on the training set
 - Evaluating the model on the testing set
