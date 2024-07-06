@@ -13,26 +13,25 @@ The dataset used in this project contains various features related to student de
 3. **Exploratory Data Analysis (EDA)**
 EDA involves understanding the data by visualizing distributions, correlations, and relationships between features. Key steps include:
 
-Importing necessary libraries
-Loading the dataset
-Checking for missing values
-Visualizing data distributions
-Analyzing correlations between features and the target variable
+- Importing necessary libraries
+- Loading the dataset
+- Checking for missing values
+- Visualizing data distributions
+- Analyzing correlations between features and the target variable
 4. **Feature Engineering**
 Feature engineering involves creating new features or modifying existing ones to improve model performance. Steps include:
 
-Encoding categorical variables
-Creating new features (if applicable)
-Normalizing or scaling numerical features
+- Encoding categorical variables
+- Creating new features (if applicable)
+- Normalizing or scaling numerical features
 5. **Model Training**
 The linear regression model is trained using the processed dataset. Steps include:
-
-Splitting the dataset into training and testing sets
-Training the model on the training set
-Evaluating the model on the testing set
+- Splitting the dataset into training and testing sets
+- Training the model on the training set
+- Evaluating the model on the testing set
 6. **Hyperparameter Tuning**
 Hyperparameter tuning involves optimizing the model parameters to achieve the best performance. Common techniques include:
-Grid Search CV
+- Grid Search CV
 
 7. **Evaluation**
 The model's performance is evaluated using metrics such as Mean Squared Error (MSE) and R-squared. Visualizations such as residual plots may also be used to assess model performance.
