@@ -1,11 +1,11 @@
 
-## Student Performance Predictive Model using Linear Regression
+## Student Performance Predictive Model
 ### Overview
-This project aims to predict student performance based on various features using a linear regression model. The process involves Exploratory Data Analysis (EDA), Feature Engineering, Model Training, and Hyperparameter Tuning.
+This project aims to predict student performance based on various features using a Decision Tree model. The process involves Exploratory Data Analysis (EDA), Feature Engineering, Model Training, and Hyperparameter Tuning.
 
 
 1. **Introduction**
-Predicting student performance can help educational institutions identify students who need additional support and improve overall educational outcomes. This project utilizes a linear regression model to predict student performance based on various features such as study time, previous grades, and demographic information.
+Predicting student performance can help educational institutions identify students who need additional support and improve overall educational outcomes. This project utilizes a Decision Tree model to predict student performance based on various features such as study time, previous grades, and demographic information.
 
 2. **Data Collection**
 The dataset used in this project contains various features related to student demographics, study habits, and previous academic performance. The dataset is assumed to be pre-collected and stored in a CSV file named student_performance.csv.
